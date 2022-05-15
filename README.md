@@ -1,4 +1,4 @@
 # game-of-life
 
 
-![life](https://commons.wikimedia.org/wiki/File:Gospers_glider_gun.gif)
+![life](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
